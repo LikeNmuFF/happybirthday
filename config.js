@@ -94,7 +94,7 @@ const CONFIG = {
       title: "Little moments I treasure",
       items: [
         {
-          heading: "Your Smile",
+          heading: "Your Wackie",
           text: "The way it fills the room and makes everything else fade out.",
           image: "./img/photo11.jpg",
         },
@@ -104,7 +104,7 @@ const CONFIG = {
           image: "./img/photo10.jpg",
         },
         {
-          heading: "Next adventure",
+          heading: "Your Smile",
           text: "Keeping a spot open for the memories we're about to make.",
           image: "./img/photo9.jpg",
         },
@@ -133,7 +133,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Baba kapo may ibigay ako, nasa baba ako",
+      
       replayText: "Or click, if you want to watch it again.",
     },
   ],
