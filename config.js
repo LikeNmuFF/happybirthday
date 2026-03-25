@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "Erica Joy",
+  photo: "./img/photo7.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -90,6 +90,27 @@ const CONFIG = {
       author: "Oprah Winfrey",
     },
     {
+      type: "memories",
+      title: "Little moments I treasure",
+      items: [
+        {
+          heading: "Your Smile",
+          text: "The way it fills the room and makes everything else fade out.",
+          image: "./img/photo11.jpg",
+        },
+        {
+          heading: "Pics With You",
+          text: "Holding your hand and talking about nothing and everything.",
+          image: "./img/photo10.jpg",
+        },
+        {
+          heading: "Next adventure",
+          text: "Keeping a spot open for the memories we're about to make.",
+          image: "./img/photo9.jpg",
+        },
+      ],
+    },
+    {
       type: "stars",
       count: 40,
     },
@@ -100,7 +121,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "You bring so much joy into my life. Happy birthday! ;)",
     },
     {
       type: "fireworks",
